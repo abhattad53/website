@@ -1,0 +1,114 @@
+/*used to add comment 
+always rest stylesheet before styling*/
+@font-face {
+    src: url();
+    font-family: ita;
+}
+
+.header {
+  overflow: hidden;
+  background-color: #cccccc;
+  padding: 20px 5px;
+  position:sticky;
+  top: 0%;
+  width: 100%;
+  display:inline-block;
+  box-sizing: border-box;
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 22px;
+  line-height: 10px;
+  border-radius: 4px;
+}
+
+.header-right {
+  float: right;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+
+body{ 
+  background-color: #cccccc;
+  background-position: center;
+  background-size:contain;
+  background-repeat: no-repeat;
+}
+h1 {
+  
+    color:black;
+    font-size: 60px;
+    margin:0px;
+    text-align: center;
+    font-family: 'economica', monospace;
+  }
+hr{
+   width: 1500px;
+   height:5px;
+   text-align:center;
+   background-color:rgb(141, 92, 69);
+}
+  h2{
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+    text-align: center;
+    font-style: alice;
+    font-size: 40px;
+  }
+  h{
+    font-style: 'economica';
+    font-size: 20px;
+  }
+  c{
+    font-size: 20px;
+  }
+  d{
+    font-size: 20px;
+  }
+  e{
+    font-size: 20px;
+  }
+  f{
+    font-size: 20px;
+  }
+  g{
+    font-size: 20px;
+  }
+  i{
+    font-size: 20px;
+  }
+  j{
+    font-size: 20px;
+  }
+  k{
+    font-size: 20px;
+  }
+  h3{
+    text-align: center;
+    font-size: 25px ;
+  }
+  h4{
+    font-size: 25px;
+  }
+  h5{
+    text-align: center;
+    font-size: 30px;
+  }
+  h6{
+    text-align: center;
+    font-size: 30px;
+  }
+
+  
+
+#ID {
+    color:aqua;
+}
